@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### General
 
-### More Information
+- Graduated from [Bogazici University](http://www.boun.edu.tr/en_US) at 2016, July.
 
-A place to include any other types of information that you'd like to include about yourself.
+- Startup enthusiast with 2+ years of experience Scala, Java and Android.
+
+- Running with [tazi.io](www.tazi.io) to build online, scalable and robust machine learning products.
+
+### Technical:
+
+- Love `git`, `functional programming` and interested in all the new technologies.
+
+- Know Scala, Java, Android, Akka, Redis, Docker, Mysql
+
+- Interested in Kafka, Zookeeper, Elastic search, Spark...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fatih@cataltepe.com](mailto:fatih@cataltepe.com)
