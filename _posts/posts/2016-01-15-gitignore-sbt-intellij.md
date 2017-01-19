@@ -2,7 +2,7 @@
 layout: post
 title: Gitignore file for sbt project in IntelliJ IDEA
 date:   2017-01-15 23:14:24 +0300
-categories: gitignore .gitignore sbt scala intellij idea template
+categories: general git intellij gitignore
 ---
 
 It is very important to configure .gitignore file properly before starting a project.
