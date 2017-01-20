@@ -10,7 +10,7 @@ permalink: /about/
 
 - Startup enthusiast with 2+ years of experience Scala, Java and Android.
 
-- Running with [tazi.io](www.tazi.io) to build online, scalable and robust machine learning products.
+- Running with [tazi.io][1] to build online, scalable and robust machine learning products.
 
 ### Technical:
 
@@ -23,3 +23,6 @@ permalink: /about/
 ### Contact me
 
 [fatih@cataltepe.com](mailto:fatih@cataltepe.com)
+
+
+[1]: http://www.tazi.io
