@@ -22,7 +22,7 @@ permalink: /about/
 
 ### Contact me
 
-[fatih@cataltepe.com](mailto:fatih@cataltepe.com)
+fatih(at)cataltepe(dot)com
 
 
 [1]: http://www.tazi.io
