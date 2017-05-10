@@ -25,6 +25,7 @@ Let's start:
 
 
 - Create the `CounterFlow.scala` file in your project and add the following **imports**
+
   ```scala
   //replace with your package
   package io.fcat.flows
@@ -38,6 +39,7 @@ Let's start:
   ```
 
 - Implement a basic `Counter` trait in `CounterFlow.scala`
+
   ```scala
   trait Counter {
     def get: Long
@@ -46,6 +48,7 @@ Let's start:
   ```
 
 - Implement custom `CounterFlow` stage in `CounterFlow.scala`
+
   ```scala
   final class CounterFlow[A] private() extends GraphStageWithMaterializedValue[FlowShape[A, A], Counter] {
 
@@ -90,6 +93,7 @@ Let's start:
 
 
 - Create a **companion object** for the `CounterFlow` class:
+
   ```scala
   object CounterFlow {
     def apply[T]: Flow[T, T, Counter] = {
@@ -106,6 +110,7 @@ Let's start:
 
 
 - Now create a `Main.scala` file and **test** your new `flow`:
+
   ```scala
   object Main extends App{
 
